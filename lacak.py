@@ -1,7 +1,7 @@
 #!/usr/bin/python2.7
 # -*- coding: utf-8 -*-
-#Author MR.404
-#Maklum kalo berantakan ster
+#Author MR.414N
+#gak boleh recode
 G = '\033[0;32m'
 C = '\033[0;36m'
 W = '\033[0;37m'
